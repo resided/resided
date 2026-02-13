@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **resided**
+# 👋 Hi, I'm **reside**
 
 **Full-Stack Developer | Blockchain Engineer | Open Source Contributor**
 

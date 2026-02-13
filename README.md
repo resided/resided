@@ -6,9 +6,7 @@
 
 Building automated trading systems, AI agents, and decentralized applications.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xreside)
 
 </div>
 
@@ -51,8 +49,6 @@ Automated trading system for prediction markets with arbitrage detection & risk 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resided&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/resided)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=resided&layout=compact&theme=github_dark&hide_border=true)](https://github.com/resided)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=resided&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

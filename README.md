@@ -42,18 +42,6 @@ Automated trading system for prediction markets with arbitrage detection & risk 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resided&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/resided)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=resided&layout=compact&theme=github_dark&hide_border=true)](https://github.com/resided)
-
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
